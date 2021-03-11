@@ -1,6 +1,6 @@
 # VmWare-16-pro
 Hi there,
-Here are some license Keys for vmWare 16 pro. I tested one of them,It is working as of now. I hope it help you as well.
+Here are some license Keys for vmWare 16 pro. I tested one of them, they are all working as of now. I hope it help you as well.   
 Serial keys:
 1. ZF3R0-FHED2-M80TY-8QYGC-NPKYF 
 2. YF390-0HF8P-M81RQ-2DXQE-M2UT6
